@@ -1,0 +1,32 @@
+@prefix ex: <http://example.org/> .
+
+ex:HumanActivities
+  ex:cause ex:GlobalWarming .
+
+ex:GreenhouseGasEmissions
+  ex:cause ex:GlobalWarming .
+
+ex:GlobalSurfaceTemperature
+  ex:reach "1.1°C above 1850–1900 in 2011–2020"^^ex:Temperature .
+
+ex:GlobalGreenhouseGasEmissions
+  ex:increaseContinuously true .
+
+ex:UnsustainableEnergyUse
+  ex:contributeTo ex:GreenhouseGasEmissions .
+
+ex:LandUseAndLandUseChange
+  ex:contributeTo ex:GreenhouseGasEmissions .
+
+ex:LifestylesAndPatterns
+  ex:contributeTo ex:GreenhouseGasEmissions .
+
+ex:Contributions
+  ex:ariseFrom ex:UnsustainableEnergyUse, ex:LandUseAndLandUseChange, ex:LifestylesAndPatterns ;
+  ex:varyAcross ex:Regions ;
+  ex:varyBetweenAndWithin ex:Countries ;
+  ex:varyAmong ex:Individuals .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel .
+

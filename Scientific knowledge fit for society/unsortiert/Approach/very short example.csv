@@ -1,0 +1,10 @@
+subject,object,relation,paper_id
+a species,climate,require,"[210511, 37144, 37144]"
+a species,climate,tolerate,"[223536, 10566, 16537, 17594]"
+a species,climate,prefer,"[228398, 174756]"
+a species,climate,respond,"[128252, 148172, 14338, 31102, 34402, 34427, 34604]"
+a species,climate,sensitive,"[132874, 85580, 86218, 32051, 179305, 179305]"
+a species,climate,relation,"[136143, 15945, 33476]"
+a species,climate,interact,"[17218, 36262]"
+a species,community,interact,"[180069, 58554]"
+a species,range,have,"[180254, 187421, 121770, 141039, 79508, 15620]"

@@ -1,0 +1,21 @@
+@prefix ex: <http://example.org/> .
+
+ex:GreenhouseGasEmissions
+  ex:willLeadTo ex:increasingGlobalWarming .
+
+ex:BestEstimate
+  ex:of ex:reaching ex:1.5DegreesC ;
+  ex:in ex:theNearTerm ;
+  ex:consideredInScenariosAndModelledPathways true .
+
+ex:IncrementOfGlobalWarming
+  ex:intensify ex:multipleHazards ;
+  ex:intensify ex:concurrentHazards .
+
+ex:GreenhouseGasEmissionReductions
+  ex:wouldLeadTo ex:slowdownInGlobalWarmingWithin ex:aroundTwoDecades ;
+  ex:wouldLeadTo ex:discernibleChangesInAtmosphericCompositionWithin ex:aFewYears .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel .
+

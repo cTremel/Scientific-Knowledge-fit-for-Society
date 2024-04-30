@@ -1,0 +1,41 @@
+# ::snt Global greenhouse gas emissions have continued to increase, with unequal historical and ongoing contributions arising from unsustainable energy use, land use and land-use change, lifestyles and patterns of consumption and production across regions, between and within countries, and among individuals (high confidence).
+(m / multi-sentence
+      :snt1 (c / continue-01
+            :ARG1 (ii / increase-01
+                  :ARG1 (e / emit-01
+                        :ARG1 (g / gas
+                              :mod (g2 / greenhouse))
+                        :mod (g3 / globe))))
+      :snt2 (a / arise-02
+            :ARG0 (a2 / and
+                  :op1 (u / use-01
+                        :ARG1 (e2 / energy)
+                        :ARG1-of (s / sustain-01
+                              :ARG1-of (p / possible-01
+                                    :polarity -)))
+                  :op2 (c2 / change-01
+                        :ARG1 (a3 / and
+                              :op1 (u2 / use-01
+                                    :ARG1 (l / land))
+                              :op2 (u3 / use-01
+                                    :ARG1 l)))
+                  :op3 (l2 / lifestyle)
+                  :op4 (p2 / pattern-01
+                        :ARG1 (a4 / and
+                              :op1 (c3 / consume-01)
+                              :op2 (p3 / produce-01)))
+                  :location (a5 / and
+                        :op1 (r / region)
+                        :op2 (b / between
+                              :op1 (c4 / country))
+                        :op3 (w / within
+                              :op1 c4))
+                  :location (a6 / among
+                        :op1 (ii2 / individual)))
+            :ARG1 (c5 / contribute-01
+                  :mod (h / history)
+                  :ARG1-of (g4 / go-on-15)
+                  :ARG1-of (e3 / equal-01
+                        :polarity -)))
+      :snt3 (c6 / confidence
+            :ARG1-of (h2 / high-02)))

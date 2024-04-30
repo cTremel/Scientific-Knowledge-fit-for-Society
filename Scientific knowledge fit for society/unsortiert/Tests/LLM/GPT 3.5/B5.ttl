@@ -1,0 +1,19 @@
+@prefix ex: <http://example.org/> .
+
+ex:LimitingHumanCausedGlobalWarming
+  ex:requires ex:netZeroCO2Emissions .
+
+ex:CumulativeCarbonEmissions
+  ex:until ex:timeOfReaching ex:netZeroCO2Emissions ;
+  ex:determine ex:whetherWarmingCanBeLimitedTo ex:1.5DegreesC, ex:2DegreesC ;
+  ex:largelyDetermine ex:whetherWarmingCanBeLimitedTo ex:1.5DegreesC, ex:2DegreesC .
+
+ex:ProjectedCO2Emissions
+  ex:from ex:existingFossilFuelInfrastructure ;
+  ex:without ex:additionalAbatement ;
+  ex:wouldExceed ex:remainingCarbonBudgetFor ex:1.5DegreesC, ex:50Percent ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel .
+

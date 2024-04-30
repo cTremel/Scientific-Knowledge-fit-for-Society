@@ -1,0 +1,11 @@
+# ::snt Scientists predict global temperature increases from human-made greenhouse gases will continue.
+(p / predict-01
+      :ARG0 (s / scientist)
+      :ARG1 (c / continue-01
+            :ARG1 (ii / increase-01
+                  :ARG0 (g / gas
+                        :mod (g2 / greenhouse)
+                        :ARG1-of (m / make-01
+                              :ARG0 (h / human)))
+                  :ARG1 (t / temperature
+                        :mod (g3 / globe)))))

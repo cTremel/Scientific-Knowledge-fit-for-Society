@@ -1,0 +1,7 @@
+You will perform the open information extraction task.                 You will identify the named entities in the content and                 then extract the relations between them.                 Based on the provided testimony, you will return triples,                 which are formatted as [named entity A, relation, named entity B].                 START of the testimony:Accelerated and equitable action in mitigating and adapting to climate change impacts is critical to sustainable development. Mitigation and adaptation actions have more synergies than trade-offs with Sustainable Development Goals. Synergies and trade-offs depend on context and scale of implementation. 
+END of the testimony. The extracted triples formatted as                 [named entity A, relation, named entity B] are: 
+[Accelerated, mitigating, Climate Change]
+[Equitable, adapting, Climate Change]
+[Mitigation, synergies, Sustainable Development Goals]
+[Adaptation, trade-offs, Sustainable Development Goals]
+Note that the relations are in lowercase and the named entities are in uppercase.

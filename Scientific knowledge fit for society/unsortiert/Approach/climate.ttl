@@ -1,0 +1,8 @@
+<aspecies,climate,require,"[210511,> a pol:Council ;
+ core:preferredLabel "37144," ;
+ core:sameAs <37144]"> .
+ 
+<aspecies,climate,tolerate,"[223536,> a pol:Council ;
+ core:preferredLabel "10566," ;
+ core:sameAs <16537,> .
+ 

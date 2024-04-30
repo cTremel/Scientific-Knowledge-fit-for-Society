@@ -1,0 +1,12 @@
+You will perform the open information extraction task.                 You will identify the named entities in the content and                 then extract the relations between them.                 Based on the provided testimony, you will return triples,                 which are formatted as [named entity A, relation, named entity B].                 START of the testimony:Policies and laws addressing mitigation have consistently expanded since AR5. Global GHG emissions in 2030 implied by nationally determined contributions (NDCs) announced by October 2021 make it likely that warming will exceed 1.5°C during the 21st century and make it harder to limit warming below 2°C. There are gaps between projected emissions from implemented policies and those from NDCs and finance flows fall short of the levels needed to meet climate goals across all sectors and regions.
+END of the testimony. The extracted triples formatted as                 [named entity A, relation, named entity B] are:
+1. [United Nations Framework Convention on Climate Change, has, emission].
+2. [emission, has, Global GHG emissions].
+3. [Global GHG emissions, implied, warming].
+4. [warming, exceed, 1.5°C].
+5. [warming, exceed, 2°C].
+6. [emission, fall, short].
+7. [finance flows, meet, climate goals].
+8. [climate goals, across, all sectors and regions].
+
+Please note that the above triples

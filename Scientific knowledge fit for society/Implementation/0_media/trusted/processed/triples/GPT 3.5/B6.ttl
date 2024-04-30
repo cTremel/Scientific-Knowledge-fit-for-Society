@@ -1,0 +1,14 @@
+@prefix ex: <http://example.org/> .
+
+ex:GlobalModelledPathways
+  ex:limitWarmingTo ex:1.5DegreesC, ex:greaterThan50Percent, ex:withNoOrLimitedOvershoot ;
+  ex:limitWarmingTo ex:2DegreesC, ex:greaterThan67Percent ;
+  ex:involve ex:rapidDeepAndImmediateGreenhouseGasEmissionsReductionsIn ex:allSectorsThisDecade .
+
+ex:PathwayCategories
+  ex:reachGlobalNetZeroCO2EmissionsIn ex:early2050s, ex:forWarmingTo1.5DegreesC ;
+  ex:reachGlobalNetZeroCO2EmissionsIn ex:aroundEarly2070s, ex:forWarmingTo2DegreesC .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel .
+

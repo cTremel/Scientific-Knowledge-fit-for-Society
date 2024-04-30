@@ -1,0 +1,23 @@
+@prefix ex: <http://example.org/> .
+
+ex:CriticalEnablersForAcceleratedClimateAction
+  ex:are ex:finance ;
+  ex:are ex:technology ;
+  ex:are ex:internationalCooperation .
+
+ex:ClimateGoals
+  ex:canBeAchievedIf ex:adaptationFinancingIncreasesManyFold ;
+  ex:canBeAchievedIf ex:mitigationFinancingIncreasesManyFold .
+
+ex:GlobalCapital
+  ex:isSufficientTo ex:close ex:globalInvestmentGaps ;
+  ex:exists ;
+  ex:hasBarriersToRedirectCapitalTo ex:climateAction .
+
+ex:EnhancingTechnologyInnovationSystems
+  ex:isKeyToAccelerate ex:widespreadAdoptionOf ex:technologiesAndPractices .
+
+ex:EnhancingInternationalCooperation
+  ex:isPossibleThrough ex:multipleChannels ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+

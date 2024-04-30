@@ -1,0 +1,18 @@
+@prefix ex: <http://example.org/> .
+
+ex:FutureChanges
+  ex:areUnavoidableAndOrIrreversible true ;
+  ex:canBeLimitedBy ex:deepRapidAndSustainedGlobalGreenhouseGasEmissionsReduction .
+
+ex:LikelihoodOfAbruptChanges
+  ex:increasesWithHigherGlobalWarmingLevels true ;
+  ex:isAssociatedWith ex:higherGlobalWarmingLevels .
+
+ex:ProbabilityOfLowLikelihoodOutcomes
+  ex:increasesWithHigherGlobalWarmingLevels true ;
+  ex:isAssociatedWith ex:higherGlobalWarmingLevels ;
+  ex:associatedWithPotentiallyVeryLargeAdverseImpacts true .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel .
+

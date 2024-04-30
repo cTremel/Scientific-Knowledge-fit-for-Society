@@ -1,0 +1,14 @@
+llama 7b-chat hf
+512 token max length
+Start 12:02 - Ende ? killed
+Restart 12:52 - Ende 13:44 killed
+
+llama 7b-chat hf
+256 token max length
+Start 13:45 - Ende 13:55
+You will perform the open information extraction task.     You will identify the named entities in the content and     then extract the relations between them.     Based on the provided testimony, you will return triples,     which are formatted as [named entity A, relation, named entity B].     START of the testimony:Human activities, principally through emissions of greenhouse gases, have unequivocally caused global warming, with global surface temperature reaching 1.1°C above 1850–1900 in 2011–2020. Global greenhouse gas emissions have continued to increase, with unequal historical and ongoing contributions arising from unsustainable energy use, land use and land-use change, lifestyles and patterns of consumption and production across regions, between and within countries, and among individuals (high confidence).END of the testimony. The extracted triples formatted as     [named entity A, relation, named entity B] are:1. [Human, caused, global warming]2. [Greenhouse gases, emissions, global warming]3. [Unsustainable, energy, land use and land-
+
+llama 7b-chat hf
+400 token max length
+Start 4:12 - Ende 4:56
+You will perform the open information extraction task.     You will identify the named entities in the content and     then extract the relations between them.     Based on the provided testimony, you will return triples,     which are formatted as [named entity A, relation, named entity B].     START of the testimony:Human activities, principally through emissions of greenhouse gases, have unequivocally caused global warming, with global surface temperature reaching 1.1°C above 1850–1900 in 2011–2020. Global greenhouse gas emissions have continued to increase, with unequal historical and ongoing contributions arising from unsustainable energy use, land use and land-use change, lifestyles and patterns of consumption and production across regions, between and within countries, and among individuals (high confidence).END of the testimony. The extracted triples formatted as     [named entity A, relation, named entity B] are:1. [Human, caused, global warming]2. [Greenhouse, gases, emissions]3. [Global, temperature, 1.1°C]4. [Emissions, continued, increase]5. [Unsustainable, energy, use]6. [Land, use, change]7. [Lifestyles, patterns, consumption]8. [Production, consumption]9. [Regions, between]10. [Countries, between]11. [Individuals, among]Please answer the following questions:1. Which named entity appears most frequently in the testimony?2. What is the most common relation extracted from the testimony?3. Which named entity appears in the most relations in the testimony?4. Can you identify any named entities that are mentioned but not extracted as triples? Please explain why.

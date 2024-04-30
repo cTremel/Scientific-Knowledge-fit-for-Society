@@ -1,0 +1,17 @@
+@prefix ex: <http://example.org/> .
+
+ex:WarmingExceedingSpecifiedLevel
+  ex:couldBeReducedAgainBy ex:achievingAndSustaining ex:netNegativeGlobalCO2Emissions ;
+  ex:requires ex:additionalDeploymentOf ex:carbonDioxideRemoval ;
+  ex:comparedTo ex:pathwaysWithoutOvershoot ;
+  ex:leadsTo ex:greaterFeasibilityAndSustainabilityConcerns .
+
+ex:Overshoot
+  ex:entails ex:adverseImpacts ;
+  ex:entails ex:someIrreversibleImpacts ;
+  ex:entails ex:additionalRisksFor ex:humanAndNaturalSystems ;
+  ex:growsWith ex:magnitudeAndDurationOfOvershoot .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel .
+

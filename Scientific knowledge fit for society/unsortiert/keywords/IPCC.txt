@@ -1,0 +1,1 @@
+["human activities", "human activity", "emission", "greenhouse gas", "CO2", "climate change", "global warming", "weather", "adaptation", "implementation", "action", "mitigation", "policies", "policy", "law", "climate goal", "risk", "impact", "loss", "damage"]

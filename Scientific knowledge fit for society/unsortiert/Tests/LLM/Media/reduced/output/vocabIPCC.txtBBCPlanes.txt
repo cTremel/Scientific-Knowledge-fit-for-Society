@@ -1,0 +1,14 @@
+You will perform the open information extraction task.                 You will identify the named entities in the content and                 then extract the relations between them.                 Based on the provided testimony, you will return triples,                 which are formatted as [named entity A, relation, named entity B].                 START of the testimony:Virgin Atlantic's Boeing 787 was powered not by fossil fuels, but plant sugars and waste fats – a form of so-called Sustainable Aviation Fuel, or SAF.
+While biofuels release CO2 when burned, some consider them a sustainable option because they are renewable and biomass removes some CO2 from the atmosphere as it grows.
+
+The airline industry is currently responsible for about 3.5% of greenhouse gas emissions, roughly the same as the entire country of Japan, which is one of the world's highest emitters.
+
+
+"What they're doing is quite important, they're just demonstrating that the flight is perfectly safe, there are no problems with the fuel," says David Lee, a professor of atmospheric science at Manchester Metropolitan University, who studies the impact of aviation on the climate, and who was a co-author of the paper that investigated the feasibility of transitioning to SAF. By switching to SAF over fossil fuels, you can achieve carbon savings of around 70%, says Lee, though this depends on the specific source of biomass you choose.
+
+However, to date, SAF has helped to fuel hundreds of thousands of flights – at least as part of a blend with fossil fuels. 
+
+Even if you gathered up all the biomass waste available in the Republic of Ireland, she says, it would only allow you to replace about 4% of fossil fuels consumed by the country. 
+
+E-fuels require a lot of energy to produce but they have the advantage of not introducing additional carbon into the atmosphere, as would be the case with newly extracted fossil fuels.
+END of the testimony. The extracted triples formatted as                 [named entity A, relation, named entity B] are:                

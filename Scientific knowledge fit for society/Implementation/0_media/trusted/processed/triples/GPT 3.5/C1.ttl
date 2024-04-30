@@ -1,0 +1,27 @@
+@prefix ex: <http://example.org/> .
+
+ex:ClimateChange
+  ex:threatens ex:humanWellBeing ;
+  ex:threatens ex:planetaryHealth ;
+  ex:hasConfidenceLevel "very high confidence"^^ex:ConfidenceLevel .
+
+ex:WindowOfOpportunity
+  ex:isClosingRapidly ;
+  ex:toSecure ex:liveableAndSustainableFutureForAll ;
+  ex:hasConfidenceLevel "very high confidence"^^ex:ConfidenceLevel .
+
+ex:ClimateResilientDevelopment
+  ex:integrates ex:adaptation ;
+  ex:integrates ex:mitigation ;
+  ex:advances ex:sustainableDevelopmentForAll ;
+  ex:isEnabledBy ex:increasedInternationalCooperation ;
+  ex:isEnabledBy ex:improvedAccessTo ex:adequateFinancialResources ;
+  ex:isEnabledBy ex:inclusiveGovernance ;
+  ex:isEnabledBy ex:coordinatedPolicies ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+
+ex:ChoicesAndActions
+  ex:implementedIn ex:thisDecade ;
+  ex:haveImpactsNowAndFor ex:thousandsOfYears ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+

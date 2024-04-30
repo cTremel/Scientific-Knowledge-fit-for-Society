@@ -1,0 +1,17 @@
+pip install pdfminer.six
+
+pip install -U openai-whisper
+sudo apt update && sudo apt install ffmpeg
+
+
+pip3 install -r requirements.txt
+git clone git@github.com:bjascob/amrlib.git 
+python3 -m spacy download en_core_web_sm
+pip3 install amrlib
+
+# pip3 show amrlib
+tar xzf model_parse_gsii-v0_1_0.tar.gz
+ln -snf model_parse_gsii-v0_1_0    model_stog
+
+tar xzf model_generate_t5-v0_1_0.tar.gz
+ln -snf model_generate_t5-v0_1_0   model_gtos

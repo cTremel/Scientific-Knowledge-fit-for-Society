@@ -1,0 +1,16 @@
+@prefix ex: <http://example.org/> .
+
+ex:FeasibleAndEffectiveAdaptationOptions
+  ex:becomeConstrainedAndLessEffectiveWithIncreasingGlobalWarming true .
+
+ex:IncreasingGlobalWarming
+  ex:leadsTo ex:increasedLossesAndDamages ;
+  ex:leadsTo ex:additionalHumanAndNaturalSystemsReachingAdaptationLimits .
+
+ex:Maladaptation
+  ex:canBeAvoidedBy ex:flexibleMultiSectoralInclusiveLongTermPlanningAndImplementationOfAdaptationActions ;
+  ex:hasCoBenefitsTo ex:manySectorsAndSystems .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel .
+

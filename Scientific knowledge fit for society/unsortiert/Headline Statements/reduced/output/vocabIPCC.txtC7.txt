@@ -1,0 +1,10 @@
+You will perform the open information extraction task.                 You will identify the named entities in the content and                 then extract the relations between them.                 Based on the provided testimony, you will return triples,                 which are formatted as [named entity A, relation, named entity B].                 START of the testimony:Finance, technology and international cooperation are critical enablers for accelerated climate action. If climate goals are to be achieved, both adaptation and mitigation financing would need to increase many-fold. There is sufficient global capital to close the global investment gaps but there are barriers to redirect capital to climate action. Enhancing technology innovation systems is key to accelerate the widespread adoption of technologies and practices. Enhancing international cooperation is possible through multiple channels.
+END of the testimony. The extracted triples formatted as                 [named entity A, relation, named entity B] are:
+[Finance, RELATED_TO, Technology]
+[Finance, NEEDS_TO_INCREASE, Mitigation]
+[Finance, NEEDS_TO_INCREASE, Adaptation]
+[Technology, RELATED_TO, Innovation]
+[Technology, RELATED_TO, International Cooperation]
+[International Cooperation, RELATED_TO, Enhancing]
+
+Please note that the extracted triples are based on the information provided in the testimony and may not be exhaustive or accurate.

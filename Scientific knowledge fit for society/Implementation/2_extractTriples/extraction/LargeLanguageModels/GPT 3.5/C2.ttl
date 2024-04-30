@@ -1,0 +1,23 @@
+@prefix ex: <http://example.org/> .
+
+ex:MitigationAndAdaptationActions
+  ex:wouldReduce ex:projectedLossesAndDamagesFor ex:humansAndEcosystems ;
+  ex:hasConfidenceLevel "very high confidence"^^ex:ConfidenceLevel ;
+  ex:wouldDeliver ex:manyCoBenefits ;
+  ex:especiallyFor ex:airQualityAndHealth ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+
+ex:DelayedMitigationAndAdaptationAction
+  ex:wouldLockIn ex:highEmissionsInfrastructure ;
+  ex:raise ex:risksOf ex:strandedAssets ;
+  ex:raise ex:risksOf ex:costEscalation ;
+  ex:reduce ex:feasibility ;
+  ex:increase ex:lossesAndDamages ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+
+ex:NearTermActions
+  ex:involve ex:highUpFrontInvestments ;
+  ex:involve ex:potentiallyDisruptiveChanges ;
+  ex:canBeLessenedBy ex:aRangeOf ex:enablingPolicies ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+

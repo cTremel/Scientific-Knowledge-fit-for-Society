@@ -1,0 +1,22 @@
+@prefix ex: <http://example.org/> .
+
+ex:Changes
+  ex:occurIn ex:Atmosphere, ex:Ocean, ex:Cryosphere, ex:Biosphere .
+
+ex:HumanCausedClimateChange
+  ex:affect ex:WeatherAndClimateExtremes .
+
+ex:WeatherAndClimateExtremes
+  ex:in ex:EveryRegionAcrossTheGlobe .
+
+ex:ImpactsAndDamages
+  ex:occurDueTo ex:HumanCausedClimateChange ;
+  ex:occurIn ex:NatureAndPeople .
+
+ex:VulnerableCommunities
+  ex:areDisproportionatelyAffected true ;
+  ex:historicallyContributeLeastTo ex:CurrentClimateChange .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel .
+

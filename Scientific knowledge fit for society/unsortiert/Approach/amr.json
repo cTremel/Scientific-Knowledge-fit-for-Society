@@ -1,0 +1,65 @@
+# ::snt There are multiple, feasible and effective options to reduce greenhouse gas emissions and adapt to human-caused climate change, and they are available now, said scientists in the latest Intergovernmental Panel on Climate Change (IPCC) report released today.
+(s / say-01
+      :ARG0 (s2 / scientist)
+      :ARG1 (a / and
+            :op1 (o / option
+                  :quant (m / multiple)
+                  :mod (f / feasible)
+                  :ARG0-of (e / effective-04
+                        :ARG1 (a2 / and
+                              :op1 (r / reduce-01
+                                    :ARG1 (e2 / emit-01
+                                          :ARG1 (g / gas
+                                                :mod (g2 / greenhouse))))
+                              :op2 (a3 / adapt-01
+                                    :ARG2 (c / change-01
+                                          :ARG1 (c2 / climate)
+                                          :ARG1-of (c3 / cause-01
+                                                :ARG0 (h / human)))))))
+            :op2 (a4 / available-02
+                  :ARG2 o
+                  :time (n / now)))
+      :medium (r2 / report
+            :mod (o2 / organization
+                  :name (n2 / name
+                        :op1 "Intergovernmental"
+                        :op2 "Panel"
+                        :op3 "on"
+                        :op4 "Climate"
+                        :op5 "Change"))
+            :mod (l / last)
+            :ARG1-of (r3 / release-01
+                  :time (t / today))))# ::snt “Mainstreaming effective and equitable climate action will not only reduce losses and damages for nature and people, it will also provide wider benefits,” said IPCC Chair Hoesung Lee.
+(s / say-01
+      :ARG0 (p / person
+            :name (n / name
+                  :op1 "Hoesung"
+                  :op2 "Lee")
+            :ARG0-of (h / have-org-role-91
+                  :ARG1 (o / organization
+                        :name (n2 / name
+                              :op1 "IPCC"))
+                  :ARG2 (c / chair)))
+      :ARG1 (a / and
+            :op1 (r / reduce-01
+                  :ARG0 (m / mainstream-01
+                        :ARG1 (a2 / act-02
+                              :topic (c2 / climate)
+                              :ARG0-of (e / effective-04)
+                              :mod (e2 / equitable)))
+                  :ARG1 (a3 / and
+                        :op1 (l / lose-02
+                              :ARG2 (a4 / and
+                                    :op1 (n3 / nature)
+                                    :op2 (p2 / person)))
+                        :op2 (d / damage-01
+                              :ARG1 a4)))
+            :op2 (p3 / provide-01
+                  :ARG0 m
+                  :ARG1 (b / benefit-01
+                        :ARG0 m
+                        :ARG1-of (h2 / have-degree-91
+                              :ARG2 (w / wide-02
+                                    :ARG1 b)
+                              :ARG3 (m2 / more)))
+                  :mod (a5 / also))))

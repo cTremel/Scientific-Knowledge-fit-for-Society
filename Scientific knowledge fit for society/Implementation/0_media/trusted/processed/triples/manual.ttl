@@ -1,0 +1,7 @@
+@prefix ex: <http://example.org/> .
+
+ex:humanActivity
+  ex:cause ex:climateChange .
+
+
+

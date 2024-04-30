@@ -1,0 +1,7 @@
+You will perform the open information extraction task.                 You will identify the named entities in the content and                 then extract the relations between them.                 Based on the provided testimony, you will return triples,                 which are formatted as [named entity A, relation, named entity B].                 START of the testimony:Climate change is a threat to human well-being and planetary health (very high confidence). Climate resilient development integrates adaptation and mitigation to advance sustainable development for all, and is enabled by increased international cooperation including improved access to adequate financial resources, particularly for vulnerable regions, sectors and groups, and inclusive governance and coordinated policies (high confidence). The choices and actions implemented in this decade will have impacts now and for thousands of years (high confidence).
+END of the testimony. The extracted triples formatted as                 [named entity A, relation, named entity B] are:
+* Climate change, threat, human well-being
+* Climate resilient development, integration, sustainable development
+* Climate change, impacts, thousands of years
+
+Please provide the answers for the above question in the format of a CSV file.

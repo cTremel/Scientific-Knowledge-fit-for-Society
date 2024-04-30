@@ -1,0 +1,25 @@
+@prefix ex: <http://example.org/> .
+
+ex:EffectiveClimateAction
+  ex:isEnabledBy ex:politicalCommitment ;
+  ex:isEnabledBy ex:wellAlignedMultilevelGovernance ;
+  ex:isEnabledBy ex:institutionalFrameworks ;
+  ex:isEnabledBy ex:laws ;
+  ex:isEnabledBy ex:policiesAndStrategies ;
+  ex:isEnabledBy ex:enhancedAccessTo ex:financeAndTechnology ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+
+ex:ClearGoals
+  ex:facilitate ex:effectiveClimateAction ;
+  ex:across ex:multiplePolicyDomains ;
+  ex:with ex:inclusiveGovernanceProcesses .
+
+ex:RegulatoryAndEconomicInstruments
+  ex:support ex:deepEmissionsReductions ;
+  ex:support ex:climateResilience ;
+  ex:ifScaledUpAndAppliedWidely .
+
+ex:ClimateResilientDevelopment
+  ex:benefitsFrom ex:drawingOn ex:diverseKnowledge ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+

@@ -1,0 +1,15 @@
+@prefix ex: <http://example.org/> .
+
+ex:AcceleratedAndEquitableAction
+  ex:inMitigatingAndAdaptingTo ex:climateChangeImpacts ;
+  ex:isCriticalTo ex:sustainableDevelopment ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+
+ex:MitigationAndAdaptationActions
+  ex:have ex:moreSynergiesThanTradeOffsWith ex:SustainableDevelopmentGoals ;
+  ex:dependOn ex:contextAndScaleOfImplementation .
+
+ex:SynergiesAndTradeOffs
+  ex:dependOn ex:contextAndScaleOfImplementation ;
+  ex:haveConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+

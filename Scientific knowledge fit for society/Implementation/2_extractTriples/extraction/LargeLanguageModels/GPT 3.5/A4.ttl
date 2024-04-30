@@ -1,0 +1,20 @@
+@prefix ex: <http://example.org/> .
+
+ex:MitigationPoliciesAndLaws
+  ex:expandSince ex:AR5 .
+
+ex:GlobalGHGEmissionsIn2030
+  ex:imply ex:warmingExceeds1.5DegreesC ;
+  ex:announcedBy ex:October2021 .
+
+ex:WarmingExceeds1.5DegreesC
+  ex:makeItHarderToLimitWarmingBelow ex:2DegreesC .
+
+ex:GapsBetweenProjectedEmissions
+  ex:existBetween ex:implementedPoliciesAnd ex:NDCs ;
+  ex:fallShortOf ex:levelsNeededToMeetClimateGoals ;
+  ex:occurAcross ex:allSectorsAndRegions .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel .
+

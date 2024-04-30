@@ -1,0 +1,26 @@
+@prefix ex: <http://example.org/> .
+
+ex:Prioritising
+  ex:enables ex:adaptationActions ;
+  ex:enables ex:ambitiousMitigationActions ;
+  ex:enables ex:climateResilientDevelopment ;
+  ex:with ex:equity ;
+  ex:with ex:climateJustice ;
+  ex:with ex:socialJustice ;
+  ex:with ex:inclusion ;
+  ex:with ex:justTransitionProcesses ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+
+ex:AdaptationOutcomes
+  ex:areEnhancedBy ex:increasedSupportTo ex:regionsAndPeopleWith ex:highestVulnerabilityTo ex:climaticHazards .
+
+ex:IntegratingClimateAdaptation
+  ex:into ex:socialProtectionPrograms ;
+  ex:improves ex:resilience .
+
+ex:OptionsForReducingEmissionIntensiveConsumption
+  ex:areAvailable ex:many ;
+  ex:include ex:behaviouralAndLifestyleChanges ;
+  ex:haveCoBenefitsFor ex:societalWellBeing ;
+  ex:hasConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+

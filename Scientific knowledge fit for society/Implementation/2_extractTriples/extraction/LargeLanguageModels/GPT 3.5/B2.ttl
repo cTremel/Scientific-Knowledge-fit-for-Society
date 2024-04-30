@@ -1,0 +1,24 @@
+@prefix ex: <http://example.org/> .
+
+ex:FutureWarmingLevels
+  ex:haveClimateRelatedRisksHigherThan ex:AR5Assessment ;
+  ex:haveProjectedLongTermImpactsUpTo ex:multipleTimesHigherThanCurrentlyObserved .
+
+ex:ClimateRelatedRisks
+  ex:escalateWithEveryIncrementOfGlobalWarming true ;
+  ex:areHigherThanAssessedIn ex:AR5 .
+
+ex:AdverseImpactsAndLosses
+  ex:from ex:ClimateChange
+  ex:escalateWithEveryIncrementOfGlobalWarming true ;
+  ex:projectedToBe ex:multipleTimesHigherThanCurrentlyObserved true .
+
+ex:ClimaticAndNonClimaticRisks
+  ex:willInteractIncreasingly ;
+  ex:create ex:compoundAndCascadingRisks ;
+  ex:areMoreComplexAndDifficultToManage true .
+
+ex:Confidence
+  ex:hasLevel "high confidence"^^ex:ConfidenceLevel ;
+  ex:hasLevel "very high confidence"^^ex:ConfidenceLevel .
+

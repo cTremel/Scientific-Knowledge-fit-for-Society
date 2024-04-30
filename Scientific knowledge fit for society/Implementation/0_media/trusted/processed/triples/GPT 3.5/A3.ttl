@@ -1,0 +1,29 @@
+@prefix ex: <http://example.org/> .
+
+ex:AdaptationPlanningAndImplementation
+  ex:progressedAcross ex:allSectorsAndRegions ;
+  ex:hasBenefits ex:documentedBenefits ;
+  ex:hasEffectiveness ex:varyingEffectiveness .
+
+ex:AdaptationGaps
+  ex:existDespite ex:progress ;
+  ex:continueToGrowAt ex:currentRatesOfImplementation .
+
+ex:LimitsToAdaptation
+  ex:haveBeenReachedIn ex:someEcosystemsAndRegions ;
+  ex:areHardAndSoft ex:inSomeEcosystemsAndRegions .
+
+ex:Maladaptation
+  ex:isHappeningIn ex:someSectorsAndRegions .
+
+ex:FinancialFlowsForAdaptation
+  ex:areInsufficientFor ex:implementationOf ;
+  ex:constrainImplementationOf ex:adaptationOptions ;
+  ex:especiallyIn ex:developingCountries .
+
+ex:GlobalFinancialFlows
+  ex:for ex:Adaptation
+  ex:are ex:insufficientFor ;
+  ex:constrainImplementationOf ex:AdaptationOptions ;
+  ex:especiallyIn ex:DevelopingCountries .
+

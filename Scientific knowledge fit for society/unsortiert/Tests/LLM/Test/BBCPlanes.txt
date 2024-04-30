@@ -1,0 +1,57 @@
+For sustainable air fuel to work, it's going to need a staggering amount of land.
+As the politician next to him took out his phone for a selfie, Virgin Atlantic chairman Richard Branson peered into the camera, grinned, and did a double thumbs-up. The world's first commercial airliner to cross the Atlantic using 100% biofuel had just landed in New York.
+
+Virgin Atlantic's Boeing 787 was powered not by fossil fuels, but plant sugars and waste fats – a form of so-called Sustainable Aviation Fuel, or SAF. A British Conservative MP posted his smiling selfie with Branson to the social media site X, formerly known as Twitter, and declared the flight "a significant UK aviation achievement". (The flight was partly funded by the UK government.)
+
+But not everyone is so sure that this represents the future of flying. The biomass required to make biofuel can come from a broad range of sources – plant material, food waste or even algae. While biofuels release CO2 when burned, some consider them a sustainable option because they are renewable and biomass removes some CO2 from the atmosphere as it grows.
+
+The problem is the sheer volume of biomass needed to power an industry as fuel-hungry as aviation. One academic paper published in August estimated that, if you were to grow sugar cane and use that to make biofuels for commercial jets, you'd need 125 million hectares (482,000 sq miles) of land – roughly equivalent to the surface area of the states of California, Oregon, Washington, Nevada and Louisiana combined.
+
+To grow enough sugar cane, you'd need 125 million hectares of land – roughly equivalent to the states of California, Oregon, Washington, Nevada and Louisiana combined
+SIGN UP TO FUTURE EARTH
+Sign up to the Future Earth newsletter to get essential climate news and hopeful developments in your inbox every Tuesday from Carl Nasman. This email is currently available to non-UK readers. In the UK? Sign up for newsletters here.
+
+That's a lot of land. And if you tried using waste sources of biomass alone, you wouldn't have nearly enough to keep all the world's planes in the air, say some experts. The airline industry is currently responsible for about 3.5% of greenhouse gas emissions, roughly the same as the entire country of Japan, which is one of the world's highest emitters.
+
+Proponents of SAF argue that the fuel could make flying much greener than it is currently. It's just that scaling SAF production up is a gigantic challenge.
+
+"What they're doing is quite important, they're just demonstrating that the flight is perfectly safe, there are no problems with the fuel," says David Lee, a professor of atmospheric science at Manchester Metropolitan University, who studies the impact of aviation on the climate, and who was a co-author of the paper that investigated the feasibility of transitioning to SAF. By switching to SAF over fossil fuels, you can achieve carbon savings of around 70%, says Lee, though this depends on the specific source of biomass you choose.
+
+Lee notes that international regulations don't actually allow for flights using more than 50% SAF as fuel at the moment, so Virgin Atlantic's hop across the pond required a special permit from the UK's Civil Aviation Authority.
+
+It all adds up to a successful proof-of-concept. But it would be difficult to power more than one glitzy flight with 100% SAF today. "You just can't get hold of the damn stuff," says Lee. "If we want to do engine tests, we have difficulty purchasing the fuel."
+
+Virgin Atlantic's Boeing 787 flew from London to New York using sustainable avaition fuel that came entirely from plant sugars and waste fats (Credit: Katy Austin/BBC)
+Virgin Atlantic's Boeing 787 flew from London to New York using sustainable avaition fuel that came entirely from plant sugars and waste fats (Credit: Katy Austin/BBC)
+
+It's an issue that Virgin Atlantic itself acknowledges. SAF accounts for just 0.1% of all aviation fuels consumed. The International Air Transport Association predicts that the airline industry will require 450 billion litres of SAF by 2050 – only 300 million litres were produced in 2022. However, to date, SAF has helped to fuel hundreds of thousands of flights – at least as part of a blend with fossil fuels. In the US, SAF production is estimated to reach 2.1 billion gallons (7.9 billion litres) annually by 2030 – well below President Biden's target of producing 3 billion gallons (11.3 billion litres) of the fuel annually by that year.
+
+Ramping up SAF production is difficult. In a Royal Society report published earlier this year, Lee and colleagues analysed the UK's potential to produce its own SAF for commercial flights. "We concluded that there wasn't really enough land," he says. Around the world, competition for land is fierce. We will need an additional 70-80 million hectares of cropland by 2030 globally, estimates management consultants McKinsey & Company – that's an area bigger than the state of Texas. The vast majority of this new cropland (70% ) is needed to grow crops for feeding livestock. Only 10% of the total area required would go towards biofuel production in McKinsey's scenario.
+
+Some SAF comes from waste fats, for example, from food production processes. Relying on such sources could, in theory, lessen the need for expanding crop cultivation just to make biofuels. But there's far too little waste available, says Hannah Daly at University College Cork, in Ireland. Even if you gathered up all the biomass waste available in the Republic of Ireland, she says, it would only allow you to replace about 4% of fossil fuels consumed by the country. The calculation would be similar in other countries, she suggests.
+
+Competition for land is fierce. We will need an additional 70-80 million hectares of cropland bvy 2030 globally – bigger than the state of Texas
+Plus, what if you think you're buying up waste fats when you're not?
+
+"There's substantial risk that that 'waste cooking oil' could be fraudulently relabelled virgin palm oil," says Daly. "That could be contributing to deforestation."
+
+Some alternatives to SAF, including hydrogen fuel and electrification, are not currently viable options for large commercial flights.
+
+Chelsea Baldino, senior researcher at the International Council on Clean Transportation and her colleagues have calculated that SAF made from waste sources in the UK would only be able to meet a maximum of 15% of UK jet fuel demand in 2030. The ICCT also estimates that just 3.3-4.2 billion gallons of SAF could feasibly be produced domestically in the US by 2030, while in 2019, US airlines used 23 billion gallons of jet fuel.
+
+"Biofuels providing the significant greenhouse gas savings needed to decarbonise jet fuel will not be available at scale," she says. E-fuels – synthetic versions of fossil fuels made using renewable energy – will be "essential", according to Baldino. E-fuels require a lot of energy to produce but they have the advantage of not introducing additional carbon into the atmosphere, as would be the case with newly extracted fossil fuels.
+
+Single-celled algae known as euglena are one source of biofuel but it needs careful processing to make fuel suitable for use in aviation (Credit: Getty Images)
+Single-celled algae known as euglena are one source of biofuel but it needs careful processing to make fuel suitable for use in aviation (Credit: Getty Images)
+
+Josh Moos, an economist at Leeds Beckett University in the UK, lambasts Virgin Atlantic's 100% SAF flight as "greenwashing".
+
+"The science would suggest that there really is no such thing as sustainable aviation," he says. It would be better to reduce demand for flights globally, perhaps by placing a levy on frequent flyers or by increasing taxes on the airline industry, he argues. Moos acknowledges that such measures are "politically and socially unpalatable", though both he and Daly suggest they might be necessary if we are to meet net zero goals.
+
+A spokeswoman for Virgin Atlantic says, "We are committed to achieving Net Zero 2050 and have set interim targets on our pathway to get there, including 10% Sustainable Aviation Fuel by 2030."
+
+She notes that the 100% SAF flight from London to New York relied entirely on waste biomass and that the demonstration was "an important step, but not the end goal" in the firm's efforts to scale up its use of SAF in the coming years.
+
+Some sceptics remain unconvinced. Daly, for one, points out that even if SAF does replace an increasing proportion of fossil fuels for aviation purposes, the overall benefit could be wiped out by the rapidly growing airline industry. Eurocontrol, a European air safety organisation, predicts that the annual total number of flights worldwide will reach 16 million by 2050 – an increase of 44% on 2019's figure.
+
+"I would love guilt-free flying myself – but it's just not possible," says Daly.

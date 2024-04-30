@@ -1,0 +1,16 @@
+@prefix ex: <http://example.org/> .
+
+ex:TransitionsAcrossAllSectorsAndSystems
+  ex:areNecessaryToAchieve ex:deepAndSustainedEmissionsReductions ;
+  ex:areNecessaryToSecure ex:liveableAndSustainableFutureForAll .
+
+ex:SystemTransitions
+  ex:involve ex:significantUpscalingOf ex:widePortfolioOf ex:mitigationAndAdaptationOptions .
+
+ex:MitigationAndAdaptationOptions
+  ex:areAvailable ex:feasible ;
+  ex:areAvailable ex:effective ;
+  ex:areAvailable ex:lowCost ;
+  ex:haveDifferencesAcross ex:systemsAndRegions ;
+  ex:haveConfidenceLevel "high confidence"^^ex:ConfidenceLevel .
+

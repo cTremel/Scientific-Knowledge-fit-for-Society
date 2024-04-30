@@ -1,0 +1,9 @@
+# ::snt Severe weather damage will also increase and intensify.
+(a / and
+      :op1 (ii / increase-01
+            :ARG1 (d / damage-01
+                  :ARG0 (w / weather
+                        :mod (s / severe))))
+      :op2 (ii2 / intensify-01
+            :ARG1 d)
+      :mod (a2 / also))

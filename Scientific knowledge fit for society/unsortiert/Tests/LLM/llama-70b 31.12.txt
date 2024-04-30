@@ -1,0 +1,8 @@
+You will identify the named entities in the content and then extract the relations between them. Based on the provided sentences, you will return triples, which are formatted as [named entity A, relation, named entity B]. 
+START of the sentences:
+A Current Status and Trends Observed Warming and its Causes A.1 Human activities, principally through emissions of greenhouse gases, have unequivocally caused global warming, with global surface temperature reaching 1.1°C above 1850–1900 in 2011–2020. Global greenhouse gas emissions have continued to increase, with unequal historical and ongoing contributions arising from unsustainable energy use, land use and land-use change, lifestyles and patterns of consumption and production across regions, between and within countries, and among individuals (high confidence). {2.1, Figure 2.1, Figure 2.2}.
+END of the sentences.
+The extracted triples formatted like [named entity A, relation, named entity B] are:
+- [Human activities, principally through emissions of greenhouse gases, have unequivocally caused global warming, with global surface temperature reaching 1.1°C above 1850–1900 in 2011–2020, high confidence]
+- [Global greenhouse gas emissions, have continued to increase, with unequal historical and ongoing contributions arising from unsustainable energy use, land use and land-use change, lifestyles and patterns of consumption and production across regions, between and within countries, and among individuals]
+Please provide the triples for the given sentences.
